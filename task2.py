@@ -11,4 +11,4 @@ print('Набор произведений чисел от 1 до', num, ' бу�
 while num >= i:
     composition = composition * i
     i = i + 1
-    print(composition)
+    print(composition,end=" ")
